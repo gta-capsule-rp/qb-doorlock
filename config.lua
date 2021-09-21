@@ -1156,18 +1156,18 @@ QB.Doors = {
 		size = 2
 	},
 	-- Police front gate
-	{
-		objName = 'prop_facgate_07b',
-		objYaw = -90.0,
-		objCoords  = vector3(419.99, -1025.0, 28.99),
-		textCoords = vector3(419.9, -1021.04, 30.5),
-		authorizedJobs = { 'police' },
-		locking = false,
-		locked = true,
-		pickable = false,
-		distance = 20,
-		size = 2
-	},
+	--{
+	--	objName = 'prop_facgate_07b',
+	--	objYaw = -90.0,
+	--	objCoords  = vector3(419.99, -1025.0, 28.99),
+	--	textCoords = vector3(419.9, -1021.04, 30.5),
+	--	authorizedJobs = { 'police' },
+	--	locking = false,
+	--	locked = true,
+	--	pickable = false,
+	--	distance = 20,
+	--	size = 2
+	--},
 	-- Luxury Cars
 	-- Entrance Doors 
 	{
